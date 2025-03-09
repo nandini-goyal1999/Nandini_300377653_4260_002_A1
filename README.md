@@ -120,4 +120,13 @@ Simple and easy to use
 Provides an interactive UI for benchmarking and predictions
 
 Integrates seamlessly with Pandas and Polars
+ project_directory/
+│-- .venv/                 # Virtual environment
+│-- requirements.txt       # Dependencies
+│-- streamlit.py           # Streamlit dashboard
+│-- Assignmnet_1.py        # Benchmarking & ML model training
+│-- trained_model.pkl      # Saved ML model
+│-- scaler.pkl             # Feature scaler
+│-- benchmark_results.csv  # Benchmarking results
+│-- NandiniG_screenshots.pdf  # Screenshots of dashboard
 
