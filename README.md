@@ -120,6 +120,7 @@ Simple and easy to use
 Provides an interactive UI for benchmarking and predictions
 
 Integrates seamlessly with Pandas and Polars
+
  project_directory/
 │-- .venv/                 # Virtual environment
 │-- requirements.txt       # Dependencies
